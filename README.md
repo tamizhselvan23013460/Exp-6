@@ -25,6 +25,9 @@ To create an Online Examination Registration System software that will meet the 
 <img width="681" height="470" alt="image" src="https://github.com/user-attachments/assets/7542b2ed-71f6-4025-9957-9137ade58008" />
 
 
+
+
+
 ## COMMUNICATOIN DIAGRAM :
 <img width="683" height="421" alt="image" src="https://github.com/user-attachments/assets/28aed650-7252-40da-8008-f29de3000aec" />
 
